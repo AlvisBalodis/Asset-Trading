@@ -17,7 +17,7 @@ You need to register so your account is permitted to connect your cart.
 COIN_MARKET_CAP_API_KEY="${API_KEY}"
 ```
 
-- #### Optional:
+Optional:
 
 You can add [Algolia](https://www.algolia.com/) API key for cloud indexing.
 Like in `.env.example` file.
