@@ -61,5 +61,3 @@ https://user-images.githubusercontent.com/53913245/190859680-86c2b7c0-aa9b-43d7-
 https://user-images.githubusercontent.com/53913245/190859685-30d964fe-0287-4080-9037-b99899395570.mp4
 
 https://user-images.githubusercontent.com/53913245/190859692-3f643ff0-aa0f-4804-8909-c20c65977aee.mp4
-
-https://user-images.githubusercontent.com/53913245/190859706-2ae4facc-1caf-4a94-ae29-3a97d749ef95.mp4
